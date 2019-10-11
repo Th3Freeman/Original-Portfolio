@@ -1,0 +1,54 @@
+header {
+    background-color: white;
+    border-color: #cccccc;
+}
+
+h1 {
+    color: white;
+    background-color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+}
+
+p {
+
+}
+
+#pagetop {
+
+}
+
+#nametag {
+    width: 10%;
+}
+
+#top-right-links {
+    float: right;
+
+}
+
+#main-links {
+
+}
+
+#main-body {
+    background-color: white;
+    border-color: #dddddd;
+
+}
+
+#divider {
+
+}
+
+#foot-divide {
+
+}
+
+footer {
+background-color: #666666;
+}
