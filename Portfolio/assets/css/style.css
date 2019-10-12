@@ -1,6 +1,8 @@
 header {
     background-color: white;
     border-color: #cccccc;
+    top: 0;
+    height: 20%;
 }
 
 h1 {
@@ -15,37 +17,37 @@ h2 {
 }
 
 p {
+text-align: right;
+}
+
+.pagetop {
 
 }
 
-#pagetop {
-
-}
-
-#nametag {
+.nametag {
     width: 10%;
 }
 
-#top-right-links {
+.top-right-links {
     float: right;
 
 }
 
-#main-links {
+.main-links {
 
 }
 
-#main-body {
+.main-body {
     background-color: white;
     border-color: #dddddd;
 
 }
 
-#divider {
+.divider {
 
 }
 
-#foot-divide {
+.foot-divide {
 
 }
 
